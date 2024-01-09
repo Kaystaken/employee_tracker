@@ -30,6 +30,8 @@ Run the code with node.js.
 Answer the Prompts or scroll through the options to view previously added data 
 Check out the demonstration link below
 
+https://drive.google.com/file/d/1VAsYBKjZ7NytXqlVNaxXbrxnoTLsPfP1/view?usp=sharing
+<img width="1127" alt="Screenshot 2024-01-09 at 7 16 13 AM" src="https://github.com/Kaystaken/employee_tracker/assets/148396597/aadbe978-9fe3-4fe7-a913-5b72afa18591">
 
 ### Credits
 
