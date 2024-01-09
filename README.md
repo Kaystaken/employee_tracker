@@ -19,10 +19,10 @@ With this command-line application that accepts user input, I am presented with 
 
 ### Installation
 
-git clone https://github.com/Kaystaken/employee_tracker.git
-npm install inquirer@8.2.4
-node index.js
-mysql
+-git clone https://github.com/Kaystaken/employee_tracker.git
+-npm install inquirer@8.2.4
+-node index.js
+-mysql
 
 ### Usage
 
